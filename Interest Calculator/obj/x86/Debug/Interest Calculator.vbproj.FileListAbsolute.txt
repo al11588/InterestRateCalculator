@@ -1,0 +1,42 @@
+D:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest_Calculator.Form1.resources
+D:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest_Calculator.Resources.resources
+D:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Basic\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+D:\Visual Basic\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+D:\Visual Basic\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.xml
+D:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.exe
+D:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.xml
+D:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.pdb
+I:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.exe
+I:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.xml
+I:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.pdb
+I:\Visual Basic\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+I:\Visual Basic\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+I:\Visual Basic\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.xml
+I:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest_Calculator.Form1.resources
+I:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest_Calculator.Resources.resources
+I:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.exe
+G:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.xml
+G:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.pdb
+G:\Visual Basic\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+G:\Visual Basic\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+G:\Visual Basic\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.xml
+G:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest_Calculator.Form1.resources
+G:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest_Calculator.Resources.resources
+G:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.exe
+E:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.xml
+E:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.pdb
+E:\Visual Basic\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+E:\Visual Basic\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+E:\Visual Basic\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.xml
+E:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest_Calculator.Form1.resources
+E:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest_Calculator.Resources.resources
+E:\Visual Basic\Interest Calculator\Interest Calculator\obj\x86\Debug\Interest Calculator.vbproj.GenerateResource.Cache
